@@ -83,5 +83,4 @@ flutter run
 
 此專案為學術用途，若您喜愛 Undertale，請支持原作：[https://undertale.com/](https://undertale.com/)
 
-```
 
