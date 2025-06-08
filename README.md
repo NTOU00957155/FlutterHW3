@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🎮 Undertale 電子書 App
 
 這是一個使用 Flutter 製作的 Undertale 主題電子書應用程式，內含角色介紹、地區場景、背景音樂播放等功能，並採用像素風格字體與背景，致敬經典遊戲《Undertale》。
